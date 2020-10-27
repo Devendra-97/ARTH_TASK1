@@ -1,0 +1,137 @@
+How big MNC's like Google, Facebook, Instagram stores, manages, and manipulates thousands of Terabytes of data with High Speed and High Efficiency??
+
+
+
+Article Link: https://www.linkedin.com/pulse/how-big-mncs-like-google-facebook-instagram-stores-data-bhadauria
+
+
+
+Before going to understand what is Big Data we need to understand what is Data??
+
+What is Data?
+The quantities, characters, or symbols on which operations are performed by a computer, which may be stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media.
+
+What is meant by Big Data?
+Big Data is name of one of the measure problem which we facing in data world. Big data is a term that describes the large volume of data — both structured and unstructured — that inundates a business on a day-to-day basis. But it’s not the amount of data that’s important . Big data can be analyzed for insights that lead to better decisions and strategic business moves.
+
+No alt text provided for this image
+
+
+According to Forbes, about 2.5 quintillion bytes of data are generated every day. Nonetheless, this number is just projected to constantly increase in the following years (90% of nowadays stored data has been produced within the last two years).
+
+What makes Big Data different from any other large amount of data stored in relational databases is its heterogeneity. The data comes from different sources and has been recorded using different formats.
+
+Data always comes with a problem. Data allows organizations to more effectively determine the cause of problems. Data allows organizations to visualize relationships between what is happening in different locations, departments, and systems.
+
+Three different ways of formatting data are commonly employed:
+
+Unstructured = unorganised data (eg. videos).
+Semi-structured = the data is organized in a not fixed format (eg. JSON).
+Structured = the data is stored in a structured format (eg. RDBMS).
+Usage of Big Data By Industry
+No alt text provided for this image
+Big data has been used in the industry to provide customer insights for transparent and simpler products, by analyzing and predicting customer behavior through data derived from social media, GPS-enabled devices, and CCTV footage. The Big Data also allows for better customer retention from insurance companies.
+
+Characteristics Of Big Data
+(i) Volume – The name Big Data itself is related to a size that is enormous. The size of data plays a very crucial role in determining value out of data. Also, whether a particular data can actually be considered as a Big Data or not, is dependent upon the volume of data. Hence, 'Volume' is one characteristic that needs to be considered while dealing with Big Data.
+
+(ii) Variety – The next aspect of Big Data is its variety.
+
+Variety refers to heterogeneous sources and the nature of data, both structured and unstructured. During earlier days, spreadsheets and databases were the only sources of data considered by most of the applications. Nowadays, data in the form of emails, photos, videos, monitoring devices, PDFs, audio, etc. are also being considered in the analysis applications. This variety of unstructured data poses certain issues for storage, mining, and analyzing data.
+
+(iii) Velocity – The term 'velocity' refers to the speed of generation of data. How fast the data is generated and processed to meet the demands, determines the real potential in the data.
+
+Big Data Velocity deals with the speed at which data flows in from sources like business processes, application logs, networks, and social media sites, sensors, Mobile devices, etc. The flow of data is massive and continuous.
+
+(iv) Variability – This refers to the inconsistency which can be shown by the data at times, thus hampering the process of being able to handle and manage the data effectively.
+
+
+
+Big Data is actually an umbrella of problems in the data world.
+Big data challenges include capturing data, data storage, data analysis, search, sharing, transfer, information privacy and data source. Big data has main sub-problems volume, variety, and velocity.
+Problem:
+volume : The volume of data refers to the size of the data sets that need to be analyzed and processed, which are now frequently larger than terabytes and petabytes. The sheer volume of the data requires distinct and different processing technologies than traditional storage and processing capabilities.
+velocity: Velocity refers to the speed with which data is generated. High velocity data is generated with such a pace that it requires distinct (distributed) processing techniques.
+An example of a data that is generated with high velocity would be Twitter messages or Facebook posts.
+The FOUR V’s of Big Data:
+No alt text provided for this image
+We also discussed about 4v in Characteristics
+
+Every Challenge has a solution — The solution of Big Data Problem is “Distributed Storage Solutions”
+No alt text provided for this image
+Consider this simple example, you have 3 laptops or 3 storage servers, typically known as Slave Nodes. Every laptop is connected via networking with one main laptop typically known as Master Node. Now suppose each server has 150 MB of storage, so if somehow 320 MB data came then we won't be able to store it in one server, so here comes the play of Distributed Storage. As also discussed by Vimal Daga Sir.
+
+No alt text provided for this image
+Master is always receiving the data and distributing the data in between the slaves. That means now we don't have to think about Volume Problems. Because no matter how big the Data is, we can easily distribute them in the slaves and also we don't need to purchase bigger storages.
+So, as we are not purchasing bigger storage so our costing will also decrease. Now we can purchase lots of small storage servers and attach them with the master. Suppose in the future the data becomes more huge, then we will purchase more storage servers and keep on attaching them with the master.
+Final thing speed, if you notice suppose one storage server takes 1 minute to store 10 GB data, now as in parallel there are multiple storages serves in parallel so to store the same 10 GB data in 10 storage device (1GB in each server) we will only need few seconds. Also, it's not always about storing the data, it's also about how faster you can read the data. As in parallel there are 10 storage servers so to read the same 10 GB data, it will take only a few seconds, whereas if we use one storage to read 10GB data then it will take over 1 minute. These are simple examples, in actual Industry these architectures are bigger with lots of components attached to each other.
+The Volume Scale of data:
+No alt text provided for this image
+What happens online in 60 seconds?
+No alt text provided for this image
+The use of big data allows businesses to observe various customer-related patterns and trends. Observing customer behavior is important to trigger loyalty.
+
+According to Facebook, its data system processes 2.5 million pieces of content each day amounting to 500+ terabytes of data daily.
+
+Facebook generates 2.7 billion Like actions per day and 300 million new photos are uploaded daily.
+
+No alt text provided for this image
+\
+95 million photos and videos are shared on Instagram per day. 9. Over 40 billion photos and videos have been shared on the Instagram platform since its conception.
+
+
+No alt text provided for this image
+91 percent of executives rate LinkedIn as their first choice for professionally relevant content. 280 billion feed updates viewed annually.
+
+There are 9 billion content impressions in LinkedIn feeds every week. 2 million posts, articles, and videos are published on LinkedIn every day.
+No alt text provided for this image
+
+No alt text provided for this image
+
+There are 500 million tweets sent each day. That’s 6,000 tweets every second.
+
+
+
+
+Big Data Case Study - Netflix
+No alt text provided for this image
+Netflix is a subscription-based streaming service that allows our members to watch TV shows and movies without commercials on an internet-connected device.
+
+It is the most loved American entertainment company specializing in online on-demand streaming video for its customers. Netflix has been determined to be able to predict what exactly its customers will enjoy watching with Big Data.
+
+As such, Big Data analytics is the fuel that fires the ‘recommendation engine’ designed to serve this purpose. More recently, Netflix started positioning itself as a content creator, not just a distribution method.
+
+No alt text provided for this image
+Unsurprisingly, this strategy has been firmly driven by data. Netflix’s recommendation engines and new content decisions are fed by data points such as what titles customers watch, how often playback stopped, ratings are given, etc. The company’s data structure includes Hadoop, Hive and Pig with much other traditional business intelligence.
+Netflix shows us that knowing exactly what customers want is easy to understand if the companies just don’t go with the assumptions and make decisions based on Big Data.
+Note: This is set to increase to 115 minutes by 2021. Streaming Observer calculates, based on its average of 71 daily minutes per day, that a cumulative 165 million hours of Netflix are watched daily across the globe (as of April 2019).
+
+
+Big Data Tools
+
+
+No alt text provided for this image
+Here is the list of top 10 big data tools –
+
+Apache Hadoop
+Apache Spark
+Flink
+Apache Storm
+Apache Cassandra
+MongoDB
+Kafka
+Tableau
+RapidMiner
+R Programming
+What is Hadoop ....?
+Hadoop is an open-source software framework for storing data and running applications on clusters of commodity hardware(This means the system is capable of running different operating systems (OSes) such as Windows or Linux without requiring special drivers.). It provides massive storage for any kind of data, enormous processing power, and the ability to handle virtually limitless concurrent tasks or jobs.
+
+Advantages of Hadoop
+
+No alt text provided for this image
+
+
+Real Use Case of Hadoop
+
+No alt text provided for this image
+!!Thank you for giving your precious time for reading this article !!
